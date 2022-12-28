@@ -13,6 +13,7 @@ specifiers:
   '@vitejs/plugin-react-swc': ^3.0.0
   lamina: ^1.1.23
   leva: ^0.9.34
+  postprocessing: ^6.29.1
   react: ^18.2.0
   react-dom: ^18.2.0
   three: ^0.148.0
@@ -28,6 +29,7 @@ dependencies:
   '@theatre/studio': 0.5.0_@theatre+core@0.5.0
   lamina: 1.1.23_cuekctkttqjec6nzdci24egcwe
   leva: 0.9.34_biqbaboplfbrettd7655fr4n2y
+  postprocessing: 6.29.1_three@0.148.0
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   three: 0.148.0

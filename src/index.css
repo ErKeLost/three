@@ -14,7 +14,18 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+* {
+  box-sizing: border-box;
+}
 
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
 a {
   font-weight: 500;
   color: #646cff;
